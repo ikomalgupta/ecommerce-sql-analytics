@@ -70,7 +70,7 @@ The database consists of the following interconnected tables:
 
 ## Schema Reference
 
-![`Ecommerce_Database_Schema`](schema.png)
+![`Ecommerce Database Schema`](Ecommerce_Database_Schema.png)
 
 ## Conclusion
 This project offers a complete walk-through of a practical e-commerce business scenario, showcasing data extraction, transformation, and insights using SQL. It demonstrates proficiency in **SQL joins**, **aggregations**, **date manipulation**, and advanced analytics using **CTEs** and **window functions**.
